@@ -1,7 +1,7 @@
 # Yoyu
 104.27.179.85 yoyu.dev
 104.27.179.85 home.yoyu.dev
-
+104.27.179.85 www.yoyutrans.com
 #Wikimeida
 103.102.166.224 meta.wikimedia.org
 103.102.166.224 wikimedia.org
