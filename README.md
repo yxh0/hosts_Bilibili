@@ -31,3 +31,5 @@
 > - Group Access：允许至多5台设备（自家客户端）同时在线，每月+43元左右
 - 游戏加速
 > - Glowow加速器：月卡30元，双月卡52元，季卡69元，年卡229元。
+
+国内直接访问网址 ： https://nexitallysafe.com/Index.aspx?language=cn
