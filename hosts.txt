@@ -1,1 +1,259 @@
+# Yoyu
+104.27.179.85 yoyu.dev
+104.27.179.85 home.yoyu.dev
 
+#Wikimeida
+103.102.166.224 meta.wikimedia.org
+103.102.166.224 wikimedia.org
+103.102.166.224 zh.wikibooks.org
+103.102.166.224 commons.wikimedia.org
+103.102.166.224 wikimedia.org
+103.102.166.224 www.mediawiki.org
+103.102.166.224 www.wikimedia.org
+103.102.166.224 species.wikimedia.org
+103.102.166.224 www.wikiversity.org
+103.102.166.224 en.wikiversity.org
+103.102.166.224 zh.wikiversity.org
+103.102.166.224 www.wikidata.org
+103.102.166.224 en.wikiquote.org
+103.102.166.224 zh.wikiquote.org
+103.102.166.224 zh.wikivoyage.org
+103.102.166.224 en.wikivoyage.org
+103.102.166.224 www.wiktionary.org
+103.102.166.224 en.wiktionary.org
+103.102.166.224 ja.wiktionary.org
+103.102.166.224 www.wikiquote.org
+103.102.166.224 www.wikinews.org
+103.102.166.224 wikitech.wikimedia.org
+103.102.166.224 incubator.wikimedia.org
+103.102.166.224 www.wikivoyage.org
+103.102.166.224 login.wikimedia.org
+103.102.166.224 wikisource.org
+103.102.166.224 zh.wikisource.org
+103.102.166.224 en.wikisource.org
+103.102.166.224 donate.wikimedia.org
+103.102.166.224 stats.wikimedia.org
+103.102.166.224 stats.wikimedia.org
+104.111.163.27 www.data.jma.go.jp
+# 元维基桌面版
+103.102.166.224 meta.wikimedia.org
+103.102.166.224 test.wikipedia.org
+
+# 英文维基百科桌面版
+103.102.166.224 en.wikipedia.org
+
+# 中文维基百科桌面版
+103.102.166.224 zh.wikipedia.org
+
+# 日文维基百科桌面版
+103.102.166.224 ja.wikipedia.org
+
+# 粤文维基百科桌面版
+103.102.166.224 zh-yue.wikipedia.org
+
+# 赣语维基百科桌面版
+103.102.166.224 gan.wikipedia.org
+
+
+# 吴语维基百科桌面版
+103.102.166.224 wuu.wikipedia.org
+
+# 闽南语维基百科桌面版
+103.102.166.224 zh-min-nan.wikipedia.org
+
+
+# 闽东语维基百科桌面版
+103.102.166.224 cdo.wikipedia.org
+
+
+# 客家语维基百科桌面版
+103.102.166.224 hak.wikipedia.org
+
+
+# 藏文维基百科桌面版
+103.102.166.224 bo.wikipedia.org
+
+
+# 维吾尔文维基百科桌面版
+103.102.166.224 ug.wikipedia.org
+
+
+# 文言文维基百科桌面版
+103.102.166.224 zh-classical.wikipedia.org
+
+
+# 中文维基新闻桌面版
+103.102.166.224 zh.wikinews.org
+
+# 维基百科入口
+103.102.166.224 www.wikipedia.org 
+
+
+#俄语维基百科
+103.102.166.224 ru.wikipedia.org
+
+
+#阿拉伯语维基百科
+103.102.166.224 ar.wikipedia.org
+
+#保加利亚语维基百科
+103.102.166.224 bg.wikipedia.org
+
+
+#波斯尼亚语维基百科 
+103.102.166.224 bs.wikipedia.org
+
+
+#加泰罗尼亚语维基百科
+103.102.166.224 ca.wikipedia.org
+
+
+#捷克语维基百科
+103.102.166.224 cs.wikipedia.org
+
+
+#丹麦语维基百科
+103.102.166.224 da.wikipedia.org
+
+
+#德语维基百科
+103.102.166.224 de.wikipedia.org
+
+
+#希腊语维基百科
+103.102.166.224 el.wikipedia.org
+
+
+#世界语维基百科
+103.102.166.224 eo.wikipedia.org
+
+
+#西班牙语维基百科
+103.102.166.224 es.wikipedia.org
+
+
+#爱沙尼亚语维基百科
+103.102.166.224 et.wikipedia.org
+
+#巴斯克语维基百科
+103.102.166.224 eu.wikipedia.org
+
+
+#波斯语维基百科
+103.102.166.224 fa.wikipedia.org
+
+
+#芬兰语维基百科
+103.102.166.224 fi.wikipedia.org
+
+
+#法语维基百科
+103.102.166.224 fr.wikipedia.org
+
+#加西尼亚语维基百科
+103.102.166.224 gl.wikipedia.org
+
+
+#希伯来语维基百科
+103.102.166.224 he.wikipedia.org
+
+
+#克罗地亚语维基百科
+103.102.166.224 hr.wikipedia.org
+
+
+#匈牙利语维基百科
+103.102.166.224 hu.wikipedia.org
+
+
+#印度尼西亚语维基百科
+103.102.166.224 id.wikipedia.org
+
+
+#意大利语维基百科
+103.102.166.224 it.wikipedia.org
+
+
+#格鲁吉亚语维基百科
+103.102.166.224 ka.wikipedia.org
+
+
+#立陶宛语维基百科
+103.102.166.224 lt.wikipedia.org
+
+#拉脱维亚语维基百科
+103.102.166.224 lv.wikipedia.org
+
+
+#蒙古语维基百科
+103.102.166.224 mn.wikipedia.org
+
+
+#马来语维基百科
+103.102.166.224 ms.wikipedia.org
+
+
+#荷兰语维基百科
+103.102.166.224 nl.wikipedia.org
+
+
+#挪威尼诺斯克语维基百科
+103.102.166.224 nn.wikipedia.org
+
+
+#挪威语维基百科
+103.102.166.224 no.wikipedia.org
+
+
+#波兰语维基百科
+103.102.166.224 pl.wikipedia.org
+
+
+#葡萄牙语维基百科
+103.102.166.224 pt.wikipedia.org
+
+#罗马尼亚语维基百科
+103.102.166.224 ro.wikipedia.org
+
+
+#塞尔尼亚-克罗地亚语维基百科
+103.102.166.224 sh.wikipedia.org
+
+#斯洛伐克语维基百科
+103.102.166.224 sk.wikipedia.org
+
+
+#斯洛文尼亚语维基百科
+103.102.166.224 sl.wikipedia.org
+
+
+#塞尔维亚语维基百科
+103.102.166.224 sr.wikipedia.org
+
+
+#瑞典语维基百科
+103.102.166.224 sv.wikipedia.org
+
+
+#泰语维基百科
+103.102.166.224 th.wikipedia.org
+
+
+#土耳其语维基百科
+103.102.166.224 tr.wikipedia.org
+
+
+
+#维吾尔语维基百科
+103.102.166.224 ug.wikipedia.org
+
+
+#乌克兰语维基百科
+103.102.166.224 uk.wikipedia.org
+
+#越南语维基百科
+103.102.166.224 vi.wikipedia.org
+
+#韩语维基百科
+103.102.166.224 ko.wikipedia.org
+#Wikimieda End
