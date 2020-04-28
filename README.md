@@ -34,5 +34,6 @@
 > - Glowow加速器：月卡30元，双月卡52元，季卡69元，年卡229元。
 
 国内直接访问网址 ： https://nexitallysafe.com/Index.aspx?language=cn
+
 国际访问网址 ： https://bit.ly/2QOFMtr
 
