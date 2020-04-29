@@ -77,7 +77,7 @@
 - 价格阶梯 有点贵 / 贵
 - 致命缺点： 偶尔抽风，看脸，速度快起来飞起，要是尿崩那就完了
 - TG群 https://t.me/amytelecom_Official
-
+- 官网 https://www.amytele.com/
 #### 价位
 > - Bronze套餐：25元/月，每月60G流量；
 > - Gold套餐：55元/月，每月400G流量。
