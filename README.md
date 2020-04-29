@@ -9,7 +9,11 @@
 
 ### RixCloud 
 - 推荐指数 ⭐⭐⭐⭐⭐
+- 性价比 ⭐⭐⭐⭐
 - 价格阶梯 很贵，但是贵的值得
+- 售前服务 https://t.me/nexitallyusers
+ 
+ > 注意：RixCloud没有客服，非常专业也非常高冷，善意提醒一下绝不允许使用BT等，机场中的标杆，一般你使用Rix的IP尽量固定
 
 #### 价位：
 > - Gold：688元/年，每月500G流量；50+BGP中继节点
@@ -22,7 +26,9 @@
 
 ### Nexitally （全中转佛系机场）
 - 推荐指数 ⭐⭐⭐⭐⭐
+- 性价比 ⭐⭐⭐
 - 价格阶梯 贵 
+- TG群 https://t.me/nexitallyusers
 
 **issue：你不能直接用大陆IP注册帐号，需要短暂的国际互联网环境**
 #### 价位：
@@ -36,4 +42,18 @@
 国内直接访问网址 ： https://nexitallysafe.com/Index.aspx?language=cn
 
 国际访问网址 ： https://bit.ly/2QOFMtr
+### AmyTelecom(Nexitally公司旗下)
+- 推荐指数 ⭐⭐⭐⭐
+- 性价比 ⭐⭐⭐⭐
+- 价格阶梯 有点贵 / 贵
+- 致命缺点： 偶尔抽风，看脸，速度快起来飞起，要是尿崩那就完了
+- TG群 https://t.me/amytelecom_Official
+####价位
+> - Bronze套餐：25元/月，每月60G流量；
+> - Gold套餐：55元/月，每月400G流量。
+**其他情况**
 
+> 不限制ip数和设备数
+> 暂时只支持SSR
+> 8折码：Amy-2020-New-Year
+> 支付方式：支付宝+微信+QQ+Epay
