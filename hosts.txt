@@ -1,263 +1,73 @@
-# AmyTelecom
-104.24.105.159 www.amytele.com
-104.27.189.97 www.amysecure.com
-
-# Yoyu
-104.27.179.85 yoyu.dev
-104.27.179.85 home.yoyu.dev
-104.27.179.85 www.yoyutrans.com
-#Wikimeida
-103.102.166.224 meta.wikimedia.org
-103.102.166.224 wikimedia.org
-103.102.166.224 zh.wikibooks.org
-103.102.166.224 commons.wikimedia.org
-103.102.166.224 wikimedia.org
-103.102.166.224 www.mediawiki.org
-103.102.166.224 www.wikimedia.org
-103.102.166.224 species.wikimedia.org
-103.102.166.224 www.wikiversity.org
-103.102.166.224 en.wikiversity.org
-103.102.166.224 zh.wikiversity.org
-103.102.166.224 www.wikidata.org
-103.102.166.224 en.wikiquote.org
-103.102.166.224 zh.wikiquote.org
-103.102.166.224 zh.wikivoyage.org
-103.102.166.224 en.wikivoyage.org
-103.102.166.224 www.wiktionary.org
-103.102.166.224 en.wiktionary.org
-103.102.166.224 ja.wiktionary.org
-103.102.166.224 www.wikiquote.org
-103.102.166.224 www.wikinews.org
-103.102.166.224 wikitech.wikimedia.org
-103.102.166.224 incubator.wikimedia.org
-103.102.166.224 www.wikivoyage.org
-103.102.166.224 login.wikimedia.org
-103.102.166.224 wikisource.org
-103.102.166.224 zh.wikisource.org
-103.102.166.224 en.wikisource.org
-103.102.166.224 donate.wikimedia.org
-103.102.166.224 stats.wikimedia.org
-103.102.166.224 stats.wikimedia.org
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handled within DNS itself.
+	127.0.0.1       localhost
+	::1             localhost
 104.111.163.27 www.data.jma.go.jp
-# 元维基桌面版
-103.102.166.224 meta.wikimedia.org
-103.102.166.224 test.wikipedia.org
-
-# 英文维基百科桌面版
-103.102.166.224 en.wikipedia.org
-
-# 中文维基百科桌面版
-103.102.166.224 zh.wikipedia.org
-
-# 日文维基百科桌面版
-103.102.166.224 ja.wikipedia.org
-
-# 粤文维基百科桌面版
-103.102.166.224 zh-yue.wikipedia.org
-
-# 赣语维基百科桌面版
-103.102.166.224 gan.wikipedia.org
-
-
-# 吴语维基百科桌面版
-103.102.166.224 wuu.wikipedia.org
-
-# 闽南语维基百科桌面版
-103.102.166.224 zh-min-nan.wikipedia.org
-
-
-# 闽东语维基百科桌面版
-103.102.166.224 cdo.wikipedia.org
-
-
-# 客家语维基百科桌面版
-103.102.166.224 hak.wikipedia.org
-
-
-# 藏文维基百科桌面版
-103.102.166.224 bo.wikipedia.org
-
-
-# 维吾尔文维基百科桌面版
-103.102.166.224 ug.wikipedia.org
-
-
-# 文言文维基百科桌面版
-103.102.166.224 zh-classical.wikipedia.org
-
-
-# 中文维基新闻桌面版
-103.102.166.224 zh.wikinews.org
-
-# 维基百科入口
-103.102.166.224 www.wikipedia.org 
-
-
-#俄语维基百科
-103.102.166.224 ru.wikipedia.org
-
-
-#阿拉伯语维基百科
-103.102.166.224 ar.wikipedia.org
-
-#保加利亚语维基百科
-103.102.166.224 bg.wikipedia.org
-
-
-#波斯尼亚语维基百科 
-103.102.166.224 bs.wikipedia.org
-
-
-#加泰罗尼亚语维基百科
-103.102.166.224 ca.wikipedia.org
-
-
-#捷克语维基百科
-103.102.166.224 cs.wikipedia.org
-
-
-#丹麦语维基百科
-103.102.166.224 da.wikipedia.org
-
-
-#德语维基百科
-103.102.166.224 de.wikipedia.org
-
-
-#希腊语维基百科
-103.102.166.224 el.wikipedia.org
-
-
-#世界语维基百科
-103.102.166.224 eo.wikipedia.org
-
-
-#西班牙语维基百科
-103.102.166.224 es.wikipedia.org
-
-
-#爱沙尼亚语维基百科
-103.102.166.224 et.wikipedia.org
-
-#巴斯克语维基百科
-103.102.166.224 eu.wikipedia.org
-
-
-#波斯语维基百科
-103.102.166.224 fa.wikipedia.org
-
-
-#芬兰语维基百科
-103.102.166.224 fi.wikipedia.org
-
-
-#法语维基百科
-103.102.166.224 fr.wikipedia.org
-
-#加西尼亚语维基百科
-103.102.166.224 gl.wikipedia.org
-
-
-#希伯来语维基百科
-103.102.166.224 he.wikipedia.org
-
-
-#克罗地亚语维基百科
-103.102.166.224 hr.wikipedia.org
-
-
-#匈牙利语维基百科
-103.102.166.224 hu.wikipedia.org
-
-
-#印度尼西亚语维基百科
-103.102.166.224 id.wikipedia.org
-
-
-#意大利语维基百科
-103.102.166.224 it.wikipedia.org
-
-
-#格鲁吉亚语维基百科
-103.102.166.224 ka.wikipedia.org
-
-
-#立陶宛语维基百科
-103.102.166.224 lt.wikipedia.org
-
-#拉脱维亚语维基百科
-103.102.166.224 lv.wikipedia.org
-
-
-#蒙古语维基百科
-103.102.166.224 mn.wikipedia.org
-
-
-#马来语维基百科
-103.102.166.224 ms.wikipedia.org
-
-
-#荷兰语维基百科
-103.102.166.224 nl.wikipedia.org
-
-
-#挪威尼诺斯克语维基百科
-103.102.166.224 nn.wikipedia.org
-
-
-#挪威语维基百科
-103.102.166.224 no.wikipedia.org
-
-
-#波兰语维基百科
-103.102.166.224 pl.wikipedia.org
-
-
-#葡萄牙语维基百科
-103.102.166.224 pt.wikipedia.org
-
-#罗马尼亚语维基百科
-103.102.166.224 ro.wikipedia.org
-
-
-#塞尔尼亚-克罗地亚语维基百科
-103.102.166.224 sh.wikipedia.org
-
-#斯洛伐克语维基百科
-103.102.166.224 sk.wikipedia.org
-
-
-#斯洛文尼亚语维基百科
-103.102.166.224 sl.wikipedia.org
-
-
-#塞尔维亚语维基百科
-103.102.166.224 sr.wikipedia.org
-
-
-#瑞典语维基百科
-103.102.166.224 sv.wikipedia.org
-
-
-#泰语维基百科
-103.102.166.224 th.wikipedia.org
-
-
-#土耳其语维基百科
-103.102.166.224 tr.wikipedia.org
-
-
-
-#维吾尔语维基百科
-103.102.166.224 ug.wikipedia.org
-
-
-#乌克兰语维基百科
-103.102.166.224 uk.wikipedia.org
-
-#越南语维基百科
-103.102.166.224 vi.wikipedia.org
-
-#韩语维基百科
-103.102.166.224 ko.wikipedia.org
-#Wikimieda End
+185.199.108.133 raw.githubusercontent.com
+31.13.66.174 www.instagram.com
+52.207.27.209 instagram.com
+157.240.206.63 scontent-fml2-1.cdninstagram.com
+# for cmcc setting
+208.80.153.224 commons.wikimedia.org
+208.80.153.240 maps.wikimedia.org
+91.198.174.208 upload.wikimedia.org
+210.69.89.121 www.cna.com.tw
+172.67.212.59 shahit.biz
+1.0.0.1 www.javbus.com
+66.254.114.41 cn.pornhub.com
+# 31.13.66.174 www.instagram.com
+157.240.22.63 scontent-lax3-2.cdninstagram.com
+157.240.22.63 scontent-lax3-1.cdninstagram.com
+157.240.22.63 scontent-fml2-1.cdninstagram.com
+157.240.22.63 scontent-sjc3-1.cdninstagram.com
+157.240.22.63 scontent-lax3-2.cdninstagram.com
+# 2a03:2880:f258:cb:face:b00c::43fe scontent-lhr8-1.cdninstagram.com
+# 2a03:2880:f20c:1ca:face:b00c::43fe scontent-sin6-3.cdninstagram.com
+# 2a03:2880:f20c:c4:face:b00c::43fe scontent-sin6-1.cdninstagram.com
+# 2a03:2880:f258:1ca:face:b00c::43fe scontent-lhr8-2.cdninstagram.com
+# 2a03:2880:f264:ca:face:b00c::43fe scontent-lcy1-1.cdninstagram.com
+# 2a03:2880:f203:c4:face:b00c::43fe i.instagram.com
+# 2a03:2880:f203:c4:face:b00c::43fe graph.instagram.com
+# 2a03:2880:f20c:2c4:face:b00c::43fe scontent-sin6-2.cdninstagram.com
+
+104.18.31.199 www.pixiv.net
+210.140.131.200 pixiv.net
+210.140.92.142 s.pximg.net
+210.140.92.145 i.pximg.net
+210.140.92.143 i-ogp.pximg.net
+172.67.70.188 whoer.net
+104.21.51.223 mda1.site
+104.21.10.81 sehuatang.org
+104.25.111.111 www.javbus.com
+104.21.94.69 sgi.anycast.gay
+104.69.221.110 steamcommunity.com
+104.21.6.184 yingyun-f.pw
+157.185.146.132 www.mpweekly.com
+
+
+23.56.10.175 www.amazon.co.jp
+23.219.172.104 origin-a.akamaihd.net #UHE_
+52.119.168.48 amazon.co.jp
+185.199.109.153 yxh0.github.io
+1.0.0.1 ja.torrentkitty.me
+1.0.0.1 e-hentai.org
+1.0.0.1 forums.e-hentai.org
+178.175.129.254 exhentai.org
+54.249.124.134 accounts.nvgs.nvidia.com #UHE_
+172.67.222.20 kutt.it
